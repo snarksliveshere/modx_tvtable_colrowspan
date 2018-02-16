@@ -16,7 +16,9 @@ In next td field type colfalse
 Accordingly, colspan=3 needs colfalse colfalse in next two td`s
 
 |td| some text colspan=2 |td|
+
 |td| colfalse |td|
+
 |td| Some text |td|
 
 ***********************************
@@ -31,13 +33,13 @@ and in td field below type rowfalse
 
 |tr|
 
-  |td|some text rowspan=2|td| |td|Some text|td| |td|Some text|td|
+  |td| some text rowspan=2 |td| |td| Some text |td| |td| Some text |td|
   
 |tr|
 
 |tr|
 
-  |td|rowfalse|td||td|Some text|td||td|Some text|td|
+  |td| rowfalse |td||td| Some text |td||td| Some text |td|
   
 |tr|
 
