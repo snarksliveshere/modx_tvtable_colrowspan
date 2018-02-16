@@ -4,7 +4,7 @@ add rowspan/colspan to the TV table
 
 Usage:
 
-
+**************************************
 
 Colspan:
 
@@ -21,9 +21,7 @@ Accordingly, colspan=3 needs colfalse colfalse in next two td`s
 
 |td|Some text|td|
 
-
-
-
+***********************************
 
 Rowspan
 
