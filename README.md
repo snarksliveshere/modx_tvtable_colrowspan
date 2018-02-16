@@ -4,13 +4,22 @@ add rowspan/colspan to the TV table
 
 Usage:
 
+
 Colspan:
+
+
 add colspan=2 to the field ofTVTable
+
 In next td field type colfalse
+
 Accordingly, colspan=3 needs colfalse colfalse in next two td`s
+
 |td|some text colspan=2|td|
+
 |td|colfalse|td|
+
 |td|Some text|td|
+
 
 Rowspan
 Same way:
