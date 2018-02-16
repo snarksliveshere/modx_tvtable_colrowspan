@@ -21,14 +21,25 @@ Accordingly, colspan=3 needs colfalse colfalse in next two td`s
 |td|Some text|td|
 
 
+
 Rowspan
+
 Same way:
+
 add rowspan=2
+
 and in td field below type rowfalse
+
 |tr|
+
   |td|some text rowspan=2|td| |td|Some text|td| |td|Some text|td|
+  
 |tr|
+
 |tr|
+
   |td|rowfalse|td||td|Some text|td||td|Some text|td|
+  
 |tr|
+
 
